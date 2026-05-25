@@ -1,0 +1,8 @@
+{
+    "name": "coremanager-service",
+    "version": "1.0.619",
+    "private": false,
+    "environment": "production",
+    "build_id": 743,
+    "allow_public_access": true
+}
